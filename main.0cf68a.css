@@ -4286,6 +4286,7 @@ a.pswp__share--download:hover {
 	font-family: STXingkai;
 	font-size: 22px;
 }
+/*打字动画*/
 @keyframes typing{
     from {
         width: 0;
